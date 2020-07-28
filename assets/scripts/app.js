@@ -55,7 +55,7 @@ const Portfolio = function() {
     function typeAnimation() {
         Typed.new("#writing-text", {
             strings: [
-                "am a Flutter Developer.", "also a Cyber-Security enthusiast", "Stock market analyst, finance intellect", " love teaching people ", "solve your problems"
+                "am a Flutter Developer", "also a Cyber-Security enthusiast", "Stock market analyst, finance intellect", " love teaching people ", "solve your problems"
             ],
             // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
             stringsElement: null,
